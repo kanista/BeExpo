@@ -1,0 +1,26 @@
+
+  .lables{
+    color: #001529;
+    font-weight: bold;
+   margin-right: "15%"; 
+   
+  }
+  .viewproject,.Description{
+    padding:20px;
+    height: 400;
+     width: "100%";
+  }
+  h6{
+    color: #7a7777;
+  display: inline;
+  font-weight: bold;
+  margin-left: 20px;
+  text-align: justify;
+
+  }
+  .para{
+    display: inline;
+    color:"#001529";
+    font-weight: bold;
+  margin-left: 20px;
+  }

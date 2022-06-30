@@ -1,0 +1,32 @@
+.ApplyProject,
+.EditPostedProject {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+}
+
+.title,
+.duration,
+.registerbeforedate,
+.time {
+
+  display: inline-block;
+  clear: left;
+  width: 250px;
+  text-align: right;
+
+}
+
+.categories,
+.qualification,
+.technologies,
+.briefdescription,
+.description,
+.scenario {
+  display: inline-block;
+  clear: Right;
+  width: 250px;
+  text-align: right;
+}

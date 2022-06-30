@@ -1,0 +1,46 @@
+h1 {
+  color: #001529;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+/* .ApplyProject, */
+.Decription,
+.EditPostedProject {
+  border: thick solid #7a7777;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 25%;
+}
+
+.ProjectCard {
+  width: 60%;
+  margin-left: 25%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 25%;
+}
+
+.PostProject,
+.Question,
+.ApplyProject {
+  width: 75%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 15%;
+}
+
+.lables {
+  font-size: larger;
+  color: black;
+
+}
+
+h5 {
+  color: #7a7777;
+  display: inline;
+}

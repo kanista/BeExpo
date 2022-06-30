@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.3",
+    "@mui/lab": "^5.0.0-alpha.85",
+    "@mui/material": "^5.8.3",
+    "@mui/x-data-grid": "^5.12.1",
+    "moment": "^2.29.3",
+    "react": "^18.1.0",
+    "react-data-grid": "^7.0.0-beta.13",
+    "react-dom": "^18.1.0",
+    "react-icons": "^4.4.0",
+    "validator": "^13.7.0"
+  }
+}
